@@ -1,1 +1,1 @@
-![GitHub followers](https://img.shields.io/github/followers/againzeenox?label=GitHub%20followers&style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/againzeenox?label=GitHub%20followers&style=social)](https://www.google.com/)
