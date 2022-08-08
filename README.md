@@ -1,6 +1,6 @@
 <!-- ALWAYS -->
 <!-- GitHuB -->
-###ALWAYS
+### ALWAYS
 
 [![GitHub Followers](https://img.shields.io/github/followers/againzeenox?label=GitHub%20followers&style=social)](https://github.com/againzeenox)
 
@@ -36,7 +36,7 @@
 
 
 
-###VARIABLES:
+### VARIABLES:
 
 <!--XOXOXOXOXOXOXOXOXOXOXOX VARIABLES         XOXOXOXOXOXOXOXOXOXOXOX -->
 
