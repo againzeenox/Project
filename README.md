@@ -1,10 +1,12 @@
 <!-- ALWAYS -->
 <!-- GitHuB -->
-<!-- [![Repo top language](https://img.shields.io/github/languages/top/againzeenox/My-animations)](https://github.com/againzeenox/Project) -->
+###ALWAYS
 
 [![GitHub Followers](https://img.shields.io/github/followers/againzeenox?label=GitHub%20followers&style=social)](https://github.com/againzeenox)
 
-<!-- [![Repo Forks](https://img.shields.io/github/forks/againzeenox/My-animations?label=Repo%20Forks&style=social)](https://github.com/againzeenox/My-animations) -->
+
+
+
 
 <!-- Reddit -->
 
@@ -30,6 +32,22 @@
 
 <!-- Repo size -->
 
-<!-- [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/againzeenox/My-animations?label=Repo%20code%20size&style=plastic)](https://www.youtube.com/watch?v=xvFZjo5PgG0) -->
 
-<!-- [![GitHub repo size](https://img.shields.io/github/repo-size/againzeenox/My-animations?label=Repo%20size)] -->
+
+
+
+###VARIABLES:
+
+<!--XOXOXOXOXOXOXOXOXOXOXOX VARIABLES         XOXOXOXOXOXOXOXOXOXOXOX -->
+
+![Repo stars](https://img.shields.io/github/stars/againzeenox/project?style=social)
+
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/againzeenox/My-animations?label=Repo%20code%20size&style=plastic)](https://www.youtube.com/watch?v=xvFZjo5PgG0) 
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/againzeenox/My-animations?label=Repo%20size)]
+
+
+[![Repo Forks](https://img.shields.io/github/forks/againzeenox/My-animations?label=Repo%20Forks&style=social)](https://github.com/againzeenox/My-animations)
+
+
+[![Repo top language](https://img.shields.io/github/languages/top/againzeenox/My-animations)](https://github.com/againzeenox/Project)
